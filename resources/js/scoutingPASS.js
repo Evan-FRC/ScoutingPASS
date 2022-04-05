@@ -580,7 +580,7 @@ function clearForm() {
 	}
 
 	// Robot
-	resetRobot()
+	// resetRobot()
 
 	// Clear XY coordinates
 	inputs = document.querySelectorAll("[id*='XY_']");
@@ -623,6 +623,8 @@ function clearForm() {
 			}
 		}
 	}
+	document.getElementById("input_t").value = getCurrentTeamNumberFromRobot().replace("frc", "");
+	onTeamnameChange();
 	drawFields()
 }
 
