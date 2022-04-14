@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2022marea",
+        "defaultValue":"2022necmp1",
         "required":"true",
         "disabled":"true"
       },
