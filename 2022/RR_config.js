@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"galileo",
+        "defaultValue":"2022galileo",
         "required":"true",
         "disabled":"true"
       },
