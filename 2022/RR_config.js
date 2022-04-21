@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"GALILEO",
+        "defaultValue":"galileo",
         "required":"true",
         "disabled":"true"
       },
