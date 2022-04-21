@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"2022GALILEO",
+        "defaultValue":"GALILEO",
         "required":"true",
         "disabled":"true"
       },
