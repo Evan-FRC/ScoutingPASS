@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"mawo2",
+        "defaultValue":"MAWO2",
         "required":"true",
         "disabled":"true"
       },
