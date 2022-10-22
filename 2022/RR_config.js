@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        "defaultValue":"MAWO2",
+        "defaultValue":"2022mabil",
         "required":"true",
         "disabled":"true"
       },
